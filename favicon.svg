@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="PMSPEED">
+  <rect width="64" height="64" rx="15" fill="#07111f"/>
+  <rect x="10" y="11" width="44" height="42" rx="10" fill="#0d2637" stroke="#38c5ff" stroke-width="2"/>
+  <path d="M21 47V18h13.5c7.2 0 11.5 3.7 11.5 9.6 0 6-4.3 9.7-11.5 9.7h-6.2V47H21Zm7.3-15.9h5.5c3.3 0 5.1-1.2 5.1-3.5 0-2.2-1.8-3.4-5.1-3.4h-5.5v6.9Z" fill="#f8fdff"/>
+  <path d="M15 14h15M15 50h10" stroke="#bbdf5f" stroke-width="3" stroke-linecap="round"/>
+</svg>
